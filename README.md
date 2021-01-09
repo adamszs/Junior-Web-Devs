@@ -9,4 +9,4 @@ We do **projects** , **coding challenges**, **meetings** and general discussions
 
 *** 
 
-For help with any Git Commands visit the [Wiki](https://github.com/adamszs/Jun/wiki)
+For help with any Git Commands visit the [Wiki](https://github.com/adamszs/Junior-Web-Devs/wiki)

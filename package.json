@@ -1,0 +1,20 @@
+{
+  "name": "Junor-Web-Developer-Jobs",
+  "version": "1.0.0",
+  "description": "Website For Junior Web Developer Jobs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamszs/Junor-Web-Developer-Jobs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamszs/Junor-Web-Developer-Jobs/issues"
+  },
+  "homepage": "https://github.com/adamszs/Junor-Web-Developer-Jobs#readme"
+}

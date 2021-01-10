@@ -1,10 +1,10 @@
 {
-  "name": "Junor-Web-Developer-Jobs",
+  "name": "Junior Web Developer Website",
   "version": "1.0.0",
   "description": "Website For Junior Web Developer Jobs",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start-coding": "git checkout main && git pull && sass --no-source-map --watch scss/main.scss:css/main.css"
   },
   "repository": {
     "type": "git",
